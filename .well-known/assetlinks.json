@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.thelostprojection_byte.twa",
+      "sha256_cert_fingerprints": [
+        "33:DD:EA:D8:44:1D:13:DC:9C:D3:DB:96:B6:2C:F3:14:74:2E:F4:10:59:5B:A4:8B:15:96:A6:34:9F:5D:E7:E8"
+      ]
+    }
+  }
+]
